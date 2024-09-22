@@ -6,7 +6,7 @@
 
 Welcome to the **Iris Species Predictor** project! This is a simple machine learning web app that predicts the species of an Iris flower based on four key features: **sepal length**, **sepal width**, **petal length**, and **petal width**.
 
-> **Live Demo**: [Check out the app here](http://0.0.0.0:8501)
+> **Live Demo**: [Check out the app here](http://localhost:8501/)
 
 ---
 
